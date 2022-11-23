@@ -1,0 +1,215 @@
+Name,Type,Disp,Cleaned,Smaller
+USS Gemsbok,Bark,14500,Sail,Sail
+USS Canonicus,BM,"1,034",Monitor,Monitor
+USS Paw Paw,Center-wheel Str,175,Steamer,Steamer
+USS Congress,Fr,"1,867",Frigate,Frigate
+USS Cumberland,Fr,"1,726",Frigate,Frigate
+USS St. Lawrence,Fr.,"1,726",Frigate,Frigate
+USS Essex,Gbt,614,Gunboat,Gunboat
+USS Kansas,Gbt,625,Gunboat,Gunboat
+USS Katahdin,Gbt,507,Gunboat,Gunboat
+USS Kennebec,Gbt,507,Gunboat,Gunboat
+USS Kineo,Gbt,507,Gunboat,Gunboat
+USS Kineo,Gbt,507,Gunboat,Gunboat
+USS Huron,Gunboat,691,Gunboat,Gunboat
+USS Nyack,Gunboat,836,Gunboat,Gunboat
+USS Unadilla,Gunboat,507,Gunboat,Gunboat
+USS Uncas,Gunboat,192,Gunboat,Gunboat
+USS Valley City,Gunboat,190,Gunboat,Gunboat
+USS Yantic,Gunboat,836,Gunboat,Gunboat
+USS Yantic (IX-32),Gunboat,836,Gunboat,Gunboat
+USS Saugus,Hon.,"1,034",Monitor,Monitor
+USS Baron DeKalb,Id. No. 3010,14180,Ironclad Gunboat,Gunboat
+USS Cairo,IrcGbt,512,Ironclad Gunboat,Gunboat
+USS Carondelet,IrcGbt,512,Ironclad Gunboat,Gunboat
+USS Galena,IrcScStr,738,Ironclad Screw Steamer,Gunboat
+USS Louisville,Ironclad centerwheel gunboat,468,Ironclad Gunboat,Gunboat
+USS Louisville,Ironclad centerwheel gunboat,468,Ironclad Gunboat,Gunboat
+USS Choctaw,Ironclad Ram,"1,004",Ironclad Ram,Ram
+USS New Ironsides,Ironclad steamer,"3,486",Ironclad Steamer,Steamer
+USS New Ironsides,Ironclad steamer,"3,486",Ironclad Steamer,Steamer
+USS Mahopac,Mon,"2,100",Monitor,Monitor
+USS Manhattan,Mon,"2,100",Monitor,Monitor
+USS Montauk,Mon,750,Monitor,Monitor
+USS Nantucket,Mon,"1,875",Monitor,Monitor
+USS Passaic,Mon,844,Monitor,Monitor
+USS Weehawken,Mon,"1,875",Monitor,Monitor
+USS Winnebago,Mon,"1,300",Monitor,Monitor
+USS Catskill,Monitor,"1,875",Monitor,Monitor
+USS Chickasaw,Monitor,970,Monitor,Monitor
+USS Monitor,Monitor,987,Monitor,Monitor
+USS Nahant,Monitor,"1,875",Monitor,Monitor
+USS Patapsco,Monitor,1875,Monitor,Monitor
+USS Tecumseh,Monitor,"2,100",Monitor,Monitor
+USS Henry Janes,Mortar Schooner,260,Mortar Schooner,Schooner
+USS Colorado,ScFr,"3,425",Screw Frigate,Frigate
+USS Wabash,ScFr,4808,Screw Frigate,Frigate
+USS Aroostook,ScGbt,507,Screw Gunboat,Gunboat
+USS Chippewa,ScGbt,507,Screw Gunboat,Gunboat
+USS Maumee,ScGbt,593,Screw Gunboat,Gunboat
+USS Owasco,ScGbt,507,Screw Gunboat,Gunboat
+USS Pequot,ScGbt,593,Screw Gunboat,Gunboat
+USS Pinola,ScGbt,507,Screw Gunboat,Gunboat
+USS Seneca,ScGbt,507,Screw Gunboat,Gunboat
+USS Shawmut,ScGbt,593,Screw Gunboat,Gunboat
+USS Tahoma,ScGbt,507,Screw Gunboat,Gunboat
+USS Whitehead,ScGbt,136,Screw Gunboat,Gunboat
+USS Whitehead,ScGbt,136,Screw Gunboat,Gunboat
+USS Sachem,ScGbt.,197,Sidewheel Gunboat,Gunboat
+USS Sciota,ScGbt.,507,Sidewheel Gunboat,Gunboat
+USS Varuna,ScGbt.,"1,300",Sidewheel Gunboat,Gunboat
+USS Wissahickon,ScGbt.,507,Sidewheel Gunboat,Gunboat
+USS Corypheus,Sch,81,Schooner,Schooner
+USS Rachel Seaman,Schooner,303,Sidewheel Schooner,Schooner
+USS Roanoke,Screw Frigate,"4,772",Screw Frigate,Frigate
+USS Ottawa,Screw Gunboat,691,Screw Gunboat,Gunboat
+USS Princess Royal,Screw Gunboat,828,Screw Gunboat,Gunboat
+USS Vicksburg,Screw gunboat,886,Screw Gunboat,Gunboat
+USS Monongahela,Screw Sloop,"2,078",Screw Sloop,Sloop
+USS Oneida,Screw Sloop,"1,488",Screw Sloop,Sloop
+USS Shenandoah,Screw Sloop,"1,375",Screw Sloop,Sloop
+USS Canandaigua,Screw sloop-of-war,"1,395",Screw Sloop,Sloop
+USS E. B. Hale,Screw Steamer,220,Screw Steamer,Steamer
+USS Resolute,Screw Tug,90,Screw Tug,Tug
+USS Zouave,Screw Tug,127,Screw Tug,Tug
+USS Seminole,ScSIp,801,Screw Sloop,Sloop
+USS Brooklyn,ScSlp,"2,532",Screw Sloop,Sloop
+USS Hartford,ScSlp,"2,900",Screw Sloop,Sloop
+USS Juniata,ScSlp,"1,240",Screw Sloop,Sloop
+USS Lackawanna,ScSlp,1533,Screw Sloop,Sloop
+USS Mohican,ScSlp,"1,461",Screw Sloop,Sloop
+USS Pawnee,ScSlp,"1,533",Screw Sloop,Sloop
+USS Ticonderoga,ScSlp,"2,526",Screw Sloop,Sloop
+USS Monticello,ScStGbt,655,Screw Gunboat,Gunboat
+USS Mound City,ScStGbt,512,Screw Gunboat,Gunboat
+USS Mound City,ScStGbt,512,Screw Gunboat,Gunboat
+USS Montgomery,ScStGbt.,787,Screw Gunboat,Gunboat
+USS Albatross,ScStr,378,Screw Steamer,Steamer
+USS Anacostia,ScStr,217,Screw Steamer,Steamer
+USS Aries,ScStr,820,Screw Steamer,Steamer
+USS Cambridge,ScStr,868,Screw Steamer,Steamer
+USS Cayuga,ScStr,507,Screw Steamer,Steamer
+USS Cherokee,ScStr,606,Screw Steamer,Steamer
+USS Crusader,ScStr,545,Screw Steamer,Steamer
+USS Dai Ching,ScStr,520,Screw Steamer,Steamer
+USS Daylight,ScStr,682,Screw Steamer,Steamer
+USS Dragon,ScStr,118,Screw Steamer,Steamer
+USS Emma,ScStr,350,Screw Steamer,Steamer
+USS Governor Buckingham,ScStr,886,Screw Steamer,Steamer
+USS Henry Brinker,ScStr,108,Screw Steamer,Steamer
+USS Itasca,ScStr,507,Screw Steamer,Steamer
+USS Little Ada,ScStr,150,Screw Steamer,Steamer
+USS Lodona,ScStr,750,Screw Steamer,Steamer
+USS Louisiana,ScStr,295,Screw Steamer,Steamer
+USS Monadnock,ScStr,"3,400",Screw Steamer,Steamer
+USS Patroon,ScStr,183,Screw Steamer,Steamer
+USS Pensacola,ScStr,"3,000",Screw Steamer,Steamer
+USS Primrose,ScStr,94,Screw Steamer,Steamer
+USRC Naugatuck,ScStr.,192,Screw Steamer,Steamer
+USS Stars and Stripes,ScStr.,407,Screw Steamer,Steamer
+USS Berberry,ScTug,163,Screw Tug,Tug
+USS Bignonia,ScTug,321,Screw Tug,Tug
+USS Moccasin,ScTug,192,Screw Tug,Tug
+USS Ossipee,Se Slp,"1,240",Screw Sloop,Sloop
+USS Kensington,Ship,357,Sail,Sail
+USS Alabama,Ship-of-the-Line,"2,633",Ship of the Line,Ship of the Line
+USS Iosco,Side Wheel Gunboat,974,Sidewheel Gunboat,Gunboat
+USS Port Royal,Side wheel gunboat,805,Sidewheel Gunboat,Gunboat
+USS Wilderness,Side Wheel Gunboat,390,Sidewheel Gunboat,Gunboat
+USS Rattler,Side wheel Steamer,165,Sidewheel Steamer,Steamer
+USS Rhode Island,Side wheel Steamer,"1,517",Sidewheel Steamer,Steamer
+USS Santiago de Cuba,Side Wheel Steamer,"1,567",Sidewheel Steamer,Steamer
+USS Britannia,Sidewheel Gunboat,495,Sidewheel Gunboat,Gunboat
+USS Mackinaw,Sidewheel Gunboat,974,Sidewheel Gunboat,Gunboat
+USS Morse,Sidewheel Gunboat,514,Sidewheel Gunboat,Gunboat
+USS Morse,Sidewheel Gunboat,514,Sidewheel Gunboat,Gunboat
+USS Pawtuxet,Sidewheel Gunboat,"1,173",Sidewheel Gunboat,Gunboat
+USS Underwriter,Side-wheel Gunboat,341,Sidewheel Gunboat,Gunboat
+USS Queen of the West,Side-wheel Ram,406,Sidewheel Ram,Ram
+USS Susquehanna,Side-wheel Steamer,"2,450",Sidewheel Steamer,Steamer
+USS Susquehanna,Side-wheel Steamer,"2,450",Sidewheel Steamer,Steamer
+USS Granite,Sip,75,Sloop,Sloop
+USS Iroquois,Slp,1016,Sloop,Sloop
+USS Portsmouth,Slp,"1,022",Sloop,Sloop
+USS Tuscarora,Slp,1457,Sloop,Sloop
+USS General Putnam,SP-2284,205,Gunboat,Gunboat
+USS Richmond,Steam Sloop,"2,604",Steam Sloop,Sloop
+USS St. Louis,Sternwheel Casemate Gunboat,512,Gunboat,Gunboat
+USS Minnesota,StFr,3307,Steam Frigate,Frigate
+USS Sagamore,StGbt.,507,Sidewheel Gunboat,Gunboat
+USS Malvern,Str,"1,477",Steamer,Steamer
+USS Cincinnati,StwGbt,512,Ironclad Gunboat,Gunboat
+USS Glide,StwStr,137,Steamer,Steamer
+USS New Era,StwStr,157,Steamer,Steamer
+USS Mount Washington,SwCbt,500,Sidewheel Gunboat,Gunboat
+USS Cimarron,SwGbt,860,Sidewheel Gunboat,Gunboat
+USS Lenapee,SwGbt,974,Sidewheel Gunboat,Gunboat
+USS Massasoit,SwGbt,974,Sidewheel Gunboat,Gunboat
+USS Mattabesett,SwGbt,"1,173",Sidewheel Gunboat,Gunboat
+USS Paul Jones,SwGbt,"1,210",Sidewheel Gunboat,Gunboat
+USS Peosta,SwGbt,233,Sidewheel Gunboat,Gunboat
+USS Pittsburgh,SwGbt,512,Sidewheel Gunboat,Gunboat
+USS Pontoosuc,SwGbt,974,Sidewheel Gunboat,Gunboat
+USS Quaker City,SwGbt,"1,600",Sidewheel Gunboat,Gunboat
+USS Thomas Freeborn,SwGbt,269,Sidewheel Gunboat,Gunboat
+USS Winona,SwGbt,507,Sidewheel Gunboat,Gunboat
+USS Wyalusing,SwGbt,"1,173",Sidewheel Gunboat,Gunboat
+USS Southfield,SwGbt.,750,Sidewheel Gunboat,Gunboat
+USS Stepping Stones,SwGbt.,226,Sidewheel Gunboat,Gunboat
+USS Tristram Shandy,SwGbt.,444,Sidewheel Gunboat,Gunboat
+USS Tyler,SwGbt.,-575,Sidewheel Gunboat,Gunboat
+USS Whitehall,SwGbt.,326,Sidewheel Gunboat,Gunboat
+USS Monarch,SwRam,406,Sidewheel Ram,Ram
+USS Conestoga,SwSt,572,Sidewheel Steamer,Steamer
+USS Metacomet,SwSt,1173,Sidewheel Steamer,Steamer
+USS Yankee,SwSt,328,Sidewheel Steamer,Steamer
+USS Lilian,SwStGbt,630,Sidewheel Gunboat,Gunboat
+USRC Harriet Lane,SwStr,600,Sidewheel Steamer,Steamer
+USS Adela,SwStr,585,Sidewheel Steamer,Steamer
+USS Advance,SwStr,880,Sidewheel Steamer,Steamer
+USS Arizona,SwStr,959,Sidewheel Steamer,Steamer
+USS Bat,SwStr,750,Sidewheel Steamer,Steamer
+USS Black Hawk,SwStr,902,Sidewheel Steamer,Steamer
+USS Ceres ,SwStr,150,Sidewheel Steamer,Steamer
+USS Ceres,SwStr,150,Sidewheel Steamer,Steamer
+USS Clifton,SwStr,892,Sidewheel Steamer,Steamer
+USS Coeur de Lion,SwStr,110,Sidewheel Steamer,Steamer
+USS Commodore,SwStr,80,Sidewheel Steamer,Steamer
+USS Commodore Barney,SwStr,512,Sidewheel Steamer,Steamer
+USS Commodore Hull,SwStr,376,Sidewheel Steamer,Steamer
+USS Commodore Perry,SwStr,512,Sidewheel Steamer,Steamer
+USS Delaware,SwStr,357,Sidewheel Steamer,Steamer
+USS Eolus,SwStr,368,Sidewheel Steamer,Steamer
+USS Fort Donelson,SwStr,900,Sidewheel Steamer,Steamer
+USS Fort Jackson,SwStr,"1,850",Sidewheel Steamer,Steamer
+USS Genesee,SwStr,803,Sidewheel Steamer,Steamer
+USS Gettysburg,SwStr,950,Sidewheel Steamer,Steamer
+USS Granite City,SwStr,450,Sidewheel Steamer,Steamer
+USS Hetzel,SwStr,200,Sidewheel Steamer,Steamer
+USS Howquah,SwStr,460,Sidewheel Steamer,Steamer
+USS Hunchback,SwStr,517,Sidewheel Steamer,Steamer
+USS Isaac N. Seymour,SwStr,133,Sidewheel Steamer,Steamer
+USS John L. Lockwood,SwStr,180,Sidewheel Steamer,Steamer
+USS John P. Jackson,SwStr,750,Sidewheel Steamer,Steamer
+USS Keystone State,SwStr,"1,364",Sidewheel Steamer,Steamer
+USS Lexington,SwStr,448,Sidewheel Steamer,Steamer
+USS Maratanza,SwStr,786,Sidewheel Steamer,Steamer
+USS Maratanza,SwStr,786,Sidewheel Steamer,Steamer
+USS Miami,SwStr,730,Sidewheel Steamer,Steamer
+USS Mississippi,SwStr,"3,220",Sidewheel Steamer,Steamer
+USS Nansemond,SwStr,340,Sidewheel Steamer,Steamer
+USS Octorara,SwStr,829,Sidewheel Steamer,Steamer
+USS Osceola,SwStr,974,Sidewheel Steamer,Steamer
+USS Philadelphia,SwStr,500,Sidewheel Steamer,Steamer
+USS Powhatan,SwStr,"2,415",Sidewheel Steamer,Steamer
+USS Westfield,SwStr,822,Sidewheel Steamer,Steamer
+USS Banshee,SwStr.,533,Sidewheel Steamer,Steamer
+USS Mahaska,SwStr.,"1,070",Sidewheel Steamer,Steamer
+USS Sassacus,SwStr.,974,Sidewheel Steamer,Steamer
+USS State of Georgia,SwStr.,"1,204",Sidewheel Steamer,Steamer
+USS Tacony,SwStr.,974,Sidewheel Steamer,Steamer
+USS Vanderbilt,SwStr.,"3,360",Sidewheel Steamer,Steamer
+USS Water Witch,SwStr.,378,Sidewheel Steamer,Steamer
+USS Alert,Tug,90,Tug,Tug
+USS Teaser,Tug,65,Tug,Tug
+USS Young America,Tug,173,Tug,Tug

@@ -12,11 +12,24 @@ This repo contains some work I have been doing on gathering a list of ships used
 
 ## Background
 
+### Definitions
+
+<dl>
+<dt>Blockade Operations</dt>
+<dd>I created this category out the various <a href="https://en.wikipedia.org/wiki/Ship_of_the_line">ships of the line</a>, <a href="https://en.wikipedia.org/wiki/Sloop-of-war">sloops</a>, and <a href="https://en.wikipedia.org/wiki/Schooner">schooners</a> that were used to enforce the blockade. These were generally large sailing vessels that were suitable for ocean operation.</dd>
+<dt>Gunboat</dt>
+<dd>A gunboat is a naval watercraft designed for the express purpose of carrying one or more guns to bombard coastal targets (<a href="https://en.wikipedia.org/wiki/Gunboat">Wikipedia</a>). In the Civil War, these ships were often commercial vessels purchased by the Union and that mounted a small number of cannons.</dd>
+<dt>Obstacle</dt>
+<dd>A number of boats were acquired to sink as obstacles in channels. For more information on these ships, see <a href="https://en.wikipedia.org/wiki/Stone_Fleet">stone fleet</a>.</dd>
+<dt>Torpedo Boat</dt>
+<dd>These were small boats that were fitted with <a href="https://en.wikipedia.org/wiki/Spar_torpedo">spar torpedoes</a>.</dd>
+</dl>
+
 ### Data Sources
 
 ### Data Collection
 
-### Formate
+### Format
 
 
 ## Analysis

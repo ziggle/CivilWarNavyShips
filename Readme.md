@@ -1,7 +1,7 @@
-![Model of Monitor](Images\Monitor_model2.png)
+![Model of Monitor](./Images/Monitor_model2.png)
 <br>
-<h2 align=center>USS Monitor</h2>
-<h3 align=center>Union warship in the first <a href="https://en.wikipedia.org/wiki/Ironclad_warship">ironclad-on-ironclad battle</a>.</h3>
+<h3 align=center>USS Monitor</h2>
+<h4 align=center>Union warship in the first <a href="https://en.wikipedia.org/wiki/Ironclad_warship">ironclad-on-ironclad battle</a>.</h3>
 <br>
 
 #  Union Ships During the Civil War

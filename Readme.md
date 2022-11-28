@@ -12,18 +12,36 @@ This repo contains some work I have been doing on gathering a list of ships used
 
 ## Background
 
-### Definitions
+### Vessel Types
 
 <dl>
 <dt>Blockade Operations</dt>
 <dd>I created this category out the various <a href="https://en.wikipedia.org/wiki/Ship_of_the_line">ships of the line</a>, <a href="https://en.wikipedia.org/wiki/Sloop-of-war">sloops</a>, and <a href="https://en.wikipedia.org/wiki/Schooner">schooners</a> that were used to enforce the blockade. These were generally large sailing vessels that were suitable for ocean operation.</dd>
 <dt>Gunboat</dt>
 <dd>A gunboat is a naval watercraft designed for the express purpose of carrying one or more guns to bombard coastal targets (<a href="https://en.wikipedia.org/wiki/Gunboat">Wikipedia</a>). In the Civil War, these ships were often commercial vessels purchased by the Union and that mounted a small number of cannons.</dd>
+<dt>Monitor</dt>
+<dd>A monitor is a relatively small warship which is neither fast nor strongly armored but carries disproportionately large guns (<a href="https://en.wikipedia.org/wiki/Monitor_(warship)">Wikipedia</a>).
 <dt>Obstacle</dt>
 <dd>A number of boats were acquired to sink as obstacles in channels. For more information on these ships, see <a href="https://en.wikipedia.org/wiki/Stone_Fleet">stone fleet</a>.</dd>
+<dt>Tender</dt>
+<dd>A ship's tender, usually referred to as a tender, is a boat, or a larger ship, used to service or support other boats or ships. This is generally done by transporting people or supplies to and from shore or another ship (<a href="https://en.wikipedia.org/wiki/Ship%27s_tender">Wikipedia</a>).</dd>
 <dt>Torpedo Boat</dt>
 <dd>These were small boats that were fitted with <a href="https://en.wikipedia.org/wiki/Spar_torpedo">spar torpedoes</a>.</dd>
+<dt>Transport</dt>
+<dd>Vessel used for transporting military goods.</dd>
+<dt>Tug</dt>
+<dd>A tugboat or tug is a marine vessel that manoeuvres other vessels by pushing or pulling them, with direct contact or a tow line (<a href="https://en.wikipedia.org/wiki/Tugboat">Wikipedia</a>).</dd>
 </dl>
+
+There were 7 one-of-a-kind vessels that I lumped into the miscellaneous category.
+
+* Balloon Barge<br>A barge used to launch surveillance balloons.
+* Lighthouse Tender<br>A ship used to supply lighthouses.
+* Minesweeper<br>A ship used to sweep mines from waterways.
+* Patrol<br>A ship used for waterway surveillance.
+* Pilot Boat<br>A boat used to transfer harbor/river pilots for navigating through difficult waterways.
+* Reconnaissance<br>A former survey ship that was used to perform detailed charting of unmapped areas.
+* Submarine<br>An early submarine that sank while being towed.
 
 ### Data Sources
 
@@ -46,10 +64,5 @@ Obstacle|45
 Monitor|29
 Tender |10
 Torpedo Boat |5
-Balloon Barge|1
-Lighthouse Tender|1
-Minesweeper |1
-Patrol|1
-Pilot Boat|1
-Reconnaissance|1
-Submarine|1
+Miscellaneous |7
+

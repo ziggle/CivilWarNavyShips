@@ -45,14 +45,15 @@ There were 7 one-of-a-kind vessels that I lumped into the miscellaneous category
 
 ### Data Sources
 
+#### Data Dictionary
+
 ### Data Collection
 
 ### Format
 
-
 ## Analysis
 
-### Ships By Categories
+### Number Ships By Category
 
 **Name**|**Count**
 :-----:|:-----:
@@ -66,3 +67,6 @@ Tender |10
 Torpedo Boat |5
 Miscellaneous |7
 
+### Tonnage of Ships By Category
+
+### Ships By Propulsion

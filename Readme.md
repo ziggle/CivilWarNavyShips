@@ -69,4 +69,27 @@ Miscellaneous |7
 
 ### Tonnage of Ships By Category
 
+**Role**|**Tonnage (1000 tonne)**
+:-----:|:-----:
+Gunboat|250
+Blockade Operations|93
+Transport|66
+Monitor|45
+Obstacle|13
+Tug|9
+Torpedo Boat|4
+Balloon Barge|2
+Other|3
+Tender|1
+Total|483
+
 ### Ships By Propulsion
+
+**Role**|**Count**
+:-----:|:-----:
+Steam|535
+Sail|171
+Steam, Sail|31
+Towed|1
+Hand Cranked|1
+Total|739

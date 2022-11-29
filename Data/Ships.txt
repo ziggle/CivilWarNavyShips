@@ -1,0 +1,740 @@
+Name	Role	Tons	Propulsion	Type
+Henrietta (ship, 1861)	Blockade Operations	205	Sail	Schooner
+USS Albermarle (1863)	Blockade Operations	200	Steam	Schooner
+USS Ammonoosuc (1864)	Blockade Operations	9850	Steam	Frigate
+USS Ben Morgan	Blockade Operations	407	Sail	Schooner
+USS Brooklyn (1858)	Blockade Operations	2532	Steam, Sail	Sloop
+USS Charlotte (1862)	Blockade Operations	70	Sail	Schooner
+USS Chotank (1861)	Blockade Operations	53	Sail	Schooner
+USS Colorado (1856)	Blockade Operations	3425	Steam	Frigate
+USS Columbia (1836)	Blockade Operations	1726	Sail	Frigate
+USS Columbus (1819)	Blockade Operations	2480	Sail	Ship of the Line
+USS Conestoga (1862)	Blockade Operations	1335	Steam	Frigate
+USS Congress (1841)	Blockade Operations	1867	Sail	Frigate
+USS Constellation (1854)	Blockade Operations	1400	Sail	Sloop
+USS Cumberland (1842)	Blockade Operations	1726	Sail	Frigate
+USS Dale (1839)	Blockade Operations	566	Sail	Sloop
+USS Dan Smith	Blockade Operations	150	Sail	Schooner
+USS Delaware (1820)	Blockade Operations	2633	Sail	Ship of the Line
+USS Falmouth (1827)	Blockade Operations	703	Sail	Sloop
+USS Germantown (1846)	Blockade Operations	939	Sail	Sloop
+USS Housatonic (1861)	Blockade Operations	1240	Steam, Sail	Sloop
+USS Idaho (1864)	Blockade Operations	3241	Steam	Sloop
+USS Ino	Blockade Operations	895	Sail	Clipper
+USS Iroquois (1859)	Blockade Operations	1016	Steam	Mohican-class Sloop
+USS John Adams (1799)	Blockade Operations	544	Sail	Frigate
+USS John Griffith	Blockade Operations	240	Sail	Schooner
+USS Juniata (1862)	Blockade Operations	1240	Steam	Sloop
+USS Kearsarge (1861)	Blockade Operations	1550	Steam, Sail	Sloop
+USS Lackawanna (1862)	Blockade Operations	1533	Steam	Sloop
+USS Lancaster (1858)	Blockade Operations	2362	Steam	Sloop
+USS Macedonian (1836)	Blockade Operations	1341	Sail	Frigate
+USS Maria J. Carlton	Blockade Operations	178	Sail	Schooner
+USS Marion (1839)	Blockade Operations	566	Sail	Sloop
+USS Merrimack (1855)	Blockade Operations	3200	Steam, Sail	Frigate
+USS Mohican (1859)	Blockade Operations	1461	Steam	Sloop
+USS New Hampshire (1864)	Blockade Operations	2633	Sail	Ship of the Line
+USS Ohio (1820)	Blockade Operations	2724	Sail	Ship of the Line
+USS Pennsylvania (1837)	Blockade Operations	3241	Sail	Ship of the Line
+USS Potomac (1822)	Blockade Operations	1726	Sail	Frigate
+USS Preble (1839)	Blockade Operations	556	Sail	Sloop
+USS Raritan (1843)	Blockade Operations	1726	Sail	Frigate
+USS Renshaw (1862)	Blockade Operations	75	Sail	Schooner
+USS Sabine (1855)	Blockade Operations	1726	Sail	Frigate
+USS Saginaw (1859)	Blockade Operations	453	Steam	Sloop
+USS San Jacinto (1850)	Blockade Operations	1567	Steam	Frigate
+USS Saratoga (1842)	Blockade Operations	882	Sail	Sloop
+USS Savannah (1842)	Blockade Operations	1726	Sail	Frigate
+USS Shenandoah (1862)	Blockade Operations	1375	Steam	Sloop
+USS St. Lawrence	Blockade Operations	1726	Sail	Frigate
+USS St. Mary's (1844)	Blockade Operations	958	Sail	Sloop
+USS Susquehanna (1850)	Blockade Operations	2450	Steam	Frigate
+USS Ticonderoga (1862)	Blockade Operations	2526	Steam, Sail	Sloop
+USS Tuscarora (1861)	Blockade Operations	1457	Steam, Sail	Sloop
+USS United States (1797)	Blockade Operations	1576	Sail	Frigate
+USS Vermont (1848)	Blockade Operations	2633	Sail	Ship of the Line
+USS Vincennes (1826)	Blockade Operations	700	Sail	Sloop
+USS Wampanoag (1864)	Blockade Operations	4215	Steam	Frigate
+USS Wyoming (1859)	Blockade Operations	1457	Steam	Sloop
+City-class ironclad	Gunboat	512	Steam	Gunboat
+CSS Tennessee (1863)	Gunboat	1273	Steam	Ironclad Ram
+USRC Forward (1842)	Gunboat	139	Sail	Cutter
+USRC Harriet Lane	Gunboat	730	Steam	Cutter
+USRC Jackson (1832)	Gunboat	112	Sail	Cutter
+USRC Naugatuck	Gunboat	192	Steam	Tug
+USS Aaron V. Brown	Gunboat	50	Sail	
+USS Abeona	Gunboat	206	Steam	
+USS Adela	Gunboat	585	Steam	
+USS Adirondack (1862)	Gunboat	1240	Steam	
+USS Adolph Hugel	Gunboat	269	Sail	
+USS Advance (1862)	Gunboat	880	Steam	
+USS Agawam (1863)	Gunboat	974	Steam	
+USS Alabama (1850)	Gunboat	1261	Steam	
+USS Albatross (1858)	Gunboat	378	Steam	
+USS Albermarle (1865)	Gunboat	376	Steam	Ironclad Ram
+USS Alert (1861)	Gunboat	90	Steam	
+USS Alexandria (1862)	Gunboat	60	Steam	
+USS Alfred Robb	Gunboat	86	Steam	
+USS Allegheny (1847)	Gunboat	989	Steam	
+USS Amanda	Gunboat	368	Sail	
+USS Anacostia (1856)	Gunboat	217	Steam	
+USS Anemone (1864)	Gunboat	156	Steam	
+USS Annie	Gunboat	27	Sail	
+USS Antelope (1861)	Gunboat	145	Steam	
+USS Antona (1863)	Gunboat	549	Steam	
+USS Argosy	Gunboat	219	Steam	
+USS Ariel (1862)	Gunboat	20	Sail	
+USS Aries (1863)	Gunboat	820	Steam	
+USS Arletta	Gunboat	200	Sail	
+USS Aroostook (1861)	Gunboat	691	Steam	
+USS Arthur	Gunboat	554	Sail	
+USS Ascutney	Gunboat	974	Steam	
+USS Augusta (1853)	Gunboat	1310	Steam	
+USS Augusta Dinsmore	Gunboat	834	Steam	
+USS Avenger (1863)	Gunboat	410	Steam	
+USS Azalea (1864)	Gunboat	176	Steam	
+USS Bainbridge (1842)	Gunboat	259	Sail	
+USS Banshee (1862)	Gunboat	273	Steam	
+USS Baron DeKalb	Gunboat	512	Steam	
+USS Bat	Gunboat	750	Steam	
+USS Beauregard	Gunboat	101	Sail	
+USS Benton	Gunboat	633	Steam	
+USS Bienville	Gunboat	1558	Steam, Sail	
+USS Black Hawk (1848)	Gunboat	902	Steam	
+USS Bloomer	Gunboat	130	Steam	
+USS Bohio (1856)	Gunboat	197	Sail	
+USS Braziliera	Gunboat	541	Sail	
+USS Breaker (1862)	Gunboat	None	Sail	
+USS Brilliant (1862)	Gunboat	227	Steam	
+USS Britannia	Gunboat	495	Steam	
+USS C. P. Williams	Gunboat	210	Sail	
+USS Cactus	Gunboat	176	Steam	
+USS Cairo	Gunboat	512	Steam	
+USS Calhoun (1851)	Gunboat	508	Steam	
+USS Calypso (1863)	Gunboat	630	Steam	
+USS Cambridge (1860)	Gunboat	868	Steam	
+USS Camelia (1862)	Gunboat	198	Steam	
+USS Canandaigua (1862)	Gunboat	1395	Steam, Sail	
+USS Carnation (1863)	Gunboat	82	Steam	
+USS Carondelet	Gunboat	512	Steam	
+USS Carrabasset (1864)	Gunboat	202	Steam	
+USS Cayuga (1861)	Gunboat	691	Steam	Unadilla-class gunboat
+USS Ceres	Gunboat	150	Steam	
+USS Champion (1859)	Gunboat	115	Steam	
+USS Chenango (1863)	Gunboat	974	Steam	Gunboat
+USS Cherokee (1859)	Gunboat	606	Steam	Gunboat
+USS Chicopee (1863)	Gunboat	974	Steam	Gunboat
+USS Chillicothe (1862)	Gunboat	395	Steam	Gunboat
+USS Chippewa (1861)	Gunboat	691	Steam	Gunboat
+USS Choctaw (1856)	Gunboat	1004	Steam	Union gunboat and ram
+USS Chocura (1861)	Gunboat	691	Steam	Gunboat
+USS Cimarron (1862)	Gunboat	860	Steam	Gunboat
+USS Cincinnati (1861)	Gunboat	512	Steam	Gunboat
+USS Clifton (1861)	Gunboat	892	Steam	Gunboat
+USS Clover (1863)	Gunboat	129	Steam	Gunboat
+USS Clyde (1863)	Gunboat	294	Steam	Gunboat
+USS Cohasset (1860)	Gunboat	100	Steam	Gunboat
+USS Collier	Gunboat	177	Steam	Gunboat
+USS Colossus (1864)	Gunboat	183	Steam	Gunboat
+USS Columbia (1862)	Gunboat	503	Steam	Gunboat
+USS Commodore (1863)	Gunboat	80	Steam	Gunboat
+USS Commodore Barney	Gunboat	512	Steam	Gunboat
+USS Commodore Hull	Gunboat	376	Steam	Gunboat
+USS Commodore Jones	Gunboat	542	Steam	Gunboat
+USS Commodore McDonough	Gunboat	532	Steam	Gunboat
+USS Commodore Morris	Gunboat	532	Steam	Gunboat
+USS Commodore Perry	Gunboat	512	Steam	Gunboat
+USS Commodore Read	Gunboat	650	Steam	Gunboat
+USS Conemaugh (1862)	Gunboat	955	Steam	Gunboat
+USS Conestoga (1861)	Gunboat	572	Steam	Gunboat
+USS Connecticut (1861)	Gunboat	725	Steam	Gunboat
+USS Cornubia (1858)	Gunboat	589	Steam	Gunboat
+USS Corwin (1849)	Gunboat	330	Steam	Gunboat
+USS Corypheus (1862)	Gunboat	82	Sail	Gunboat
+USS Courier (1861)	Gunboat	556	Sail	Gunboat
+USS Covington (1863)	Gunboat	224	Steam	Gunboat
+USS Cowslip (1863)	Gunboat	220	Steam	Gunboat
+USS Cricket	Gunboat	178	Steam	Gunboat
+USS Crocus (1862)	Gunboat	122	Steam	Gunboat
+USS Crusader (1858)	Gunboat	545	Steam	Gunboat
+USS Curlew (1862)	Gunboat	196	Steam	Gunboat
+USS Currituck (1843)	Gunboat	195	Steam	Gunboat
+USS Dacotah	Gunboat	996	Steam, Sail	Gunboat
+USS Dai Ching (1863)	Gunboat	520	Steam	Gunboat
+USS Dart (1861)	Gunboat	94	Sail	Gunboat
+USS De Soto (1859)	Gunboat	1675	Steam, Sail	Gunboat
+USS Decatur (1839)	Gunboat	566	Sail	Gunboat
+USS Delaware (1861)	Gunboat	350	Steam	Gunboat
+USS Dolphin (1836)	Gunboat	224	Sail	Brig
+USS Dragon	Gunboat	118	Steam	Gunboat
+USS Dumbarton	Gunboat	636	Steam	Gunboat
+USS E. B. Hale (1861)	Gunboat	220	Steam	Gunboat
+USS Eastport (1862)	Gunboat	700	Steam	Gunboat
+USS Elfin (1864)	Gunboat	192	Steam	Gunboat
+USS Elk (1863)	Gunboat	162	Steam	Gunboat
+USS Ella (1859)	Gunboat	230	Steam	Gunboat
+USS Ellen (1853)	Gunboat	341	Steam	Gunboat
+USS Ellis (1862)	Gunboat	100	Steam	Gunboat
+USS Eolus (1864)	Gunboat	368	Steam	Gunboat
+USS Essex (1856)	Gunboat	640	Steam	Gunboat
+USS Estrella (1862)	Gunboat	576	Steam	Gunboat
+USS Ethan Allen (1859)	Gunboat	556	Sail	Gunboat
+USS Eureka	Gunboat	50	Steam	Gunboat
+USS Eutaw (1863)	Gunboat	1173	Steam	Gunboat
+USS Exchange (1862)	Gunboat	211	Steam	Gunboat
+USS Fairplay (1859)	Gunboat	156	Steam	Gunboat
+USS Fairy (1861)	Gunboat	211	Steam	Gunboat
+USS Fawn (1863)	Gunboat	174	Steam	Gunboat
+USS Fernandina	Gunboat	297	Sail	Gunboat
+USS Flag	Gunboat	938	Steam	Gunboat
+USS Flambeau (1861)	Gunboat	850	Steam	Gunboat
+USS Florida (1850)	Gunboat	1261	Steam	Gunboat
+USS Fort Henry	Gunboat	552	Steam	Gunboat
+USS Fort Hindman	Gunboat	286	Steam	Gunboat
+USS Fort Morgan (1863)	Gunboat	1249	Steam	Gunboat
+USS Fox (1859)	Gunboat	80	Sail	Gunboat
+USS Fuchsia	Gunboat	240	Steam	Gunboat
+USS Fulton (1837)	Gunboat	720	Steam	Gunboat
+USS G. W. Blunt (1856)	Gunboat	121	Sail	Gunboat
+USS Galatea (1863)	Gunboat	1244	Steam	Gunboat
+USS Gazelle (1863)	Gunboat	117	Steam	Gunboat
+USS Gem of the Sea	Gunboat	371	Sail	Gunboat
+USS General Bragg	Gunboat	1043	Steam	Gunboat
+USS General Burnside (1862)	Gunboat	201	Steam	Gunboat
+USS General Grant	Gunboat	201	Steam	Gunboat
+USS General Pillow	Gunboat	38	Steam	Gunboat
+USS General Putnam (1857)	Gunboat	149	Steam	Gunboat
+USS General Sherman	Gunboat	187	Steam	Gunboat
+USS General Thomas (1864)	Gunboat	184	Steam	Gunboat
+USS Genesee (1862)	Gunboat	803	Steam	Gunboat
+USS George Mangham	Gunboat	274	Sail	Gunboat
+USS George W. Rodgers	Gunboat	87	Sail	Gunboat
+USS Geranium (1863)	Gunboat	223	Steam	Gunboat
+USS Gertrude	Gunboat	350	Steam	Gunboat
+USS Glasgow	Gunboat	428	Steam	Gunboat
+USS Glaucus	Gunboat	1244	Steam, Sail	Gunboat
+USS Glide (1862)	Gunboat	137	Steam	Gunboat
+USS Glide (1863)	Gunboat	232	Steam	Gunboat
+USS Governor Buckingham	Gunboat	886	Steam, Sail	Gunboat
+USS Grand Gulf	Gunboat	1200	Steam	Gunboat
+USS Granite (1862)	Gunboat	75	Sail	Gunboat
+USS Granite City	Gunboat	450	Steam	Gunboat
+USS Grosbeak (1865)	Gunboat	196	Steam	Gunboat
+USS Hartford (1858)	Gunboat	2900	Steam, Sail	Gunboat
+USS Harvest Moon (1863)	Gunboat	546	Steam	Gunboat
+USS Hastings (1860)	Gunboat	293	Steam	Gunboat
+USS Hendrick Hudson	Gunboat	460	Steam, Sail	Gunboat
+USS Henry Andrew	Gunboat	177	Steam	Gunboat
+USS Henry Brinker (1861)	Gunboat	108	Steam	Gunboat
+USS Henry Janes (1861)	Gunboat	260	Steam, Sail	Gunboat
+USS Hetzel (1861)	Gunboat	200	Steam	Gunboat
+USS Hibiscus	Gunboat	490	Steam	Gunboat
+USS Home	Gunboat	725	Steam	Gunboat
+USS Honduras (1861)	Gunboat	376	Steam	Gunboat
+USS Honeysuckle (1862)	Gunboat	241	Steam	Gunboat
+USS Howquah (1863)	Gunboat	460	Steam	Gunboat
+USS Hunchback	Gunboat	512	Steam	Gunboat
+USS Huntress (1862)	Gunboat	211	Steam	Gunboat
+USS Huntsville (1857)	Gunboat	860	Steam	Gunboat
+USS Huron (1861)	Gunboat	691	Steam	Gunboat
+USS Hyacinth (1862)	Gunboat	50	Steam	Gunboat
+USS Hydrangea (1862)	Gunboat	224	Steam	Gunboat
+USS Ice Boat (1861)	Gunboat	526	Steam	Gunboat
+USS Ida	Gunboat	104	Steam	Gunboat
+USS Indianola	Gunboat	511	Steam	Gunboat
+USS Iosco	Gunboat	1173	Steam	Gunboat
+USS Isonomia	Gunboat	593	Steam	Gunboat
+USS Itasca (1861)	Gunboat	691	Steam	Gunboat
+USS Iuka (1864)	Gunboat	944	Steam	Gunboat
+USS Ivy (1862)	Gunboat	50	Steam	Gunboat
+USS Jacob Bell (1842)	Gunboat	229	Steam	Gunboat
+USS James L. Davis	Gunboat	461	Sail	Gunboat
+USS James S. Chambers	Gunboat	401	Sail	Gunboat
+USS John L. Lockwood	Gunboat	180	Steam	Gunboat
+USS John P. Jackson (1860)	Gunboat	750	Steam	Gunboat
+USS Jonquil	Gunboat	90	Steam	Gunboat
+USS Juliet	Gunboat	157	Steam	Gunboat
+USS Kanawha (1861)	Gunboat	691	Steam	Gunboat
+USS Kansas (1863)	Gunboat	625	Steam	Gunboat
+USS Katahdin (1861)	Gunboat	691	Steam	Gunboat
+USS Kate (1864)	Gunboat	242	Steam	Gunboat
+USS Kennebec (1861)	Gunboat	691	Steam	Gunboat
+USS Kensington (1862)	Gunboat	1053	Steam	Gunboat
+USS Kenwood (1863)	Gunboat	232	Steam	Gunboat
+USS Key West (1862)	Gunboat	207	Steam	Gunboat
+USS Kineo (1861)	Gunboat	691	Steam	Gunboat
+USS Kingfisher (1861)	Gunboat	451	Sail	Gunboat
+USS Kinsman (1854)	Gunboat	245	Steam	Gunboat
+USS Kittatinny	Gunboat	450	Sail	Gunboat
+USS Lexington (1861)	Gunboat	448	Steam	Gunboat
+USS Lilian (1863)	Gunboat	630	Steam	Gunboat
+USS Little Ada	Gunboat	150	Steam	Gunboat
+USS Little Rebel (1859)	Gunboat	161	Steam	Gunboat
+USS Lodona (1862)	Gunboat	688	Steam	Gunboat
+USS Louisiana (1861)	Gunboat	295	Steam	Gunboat
+USS Louisville (1861)	Gunboat	512	Steam	Gunboat
+USS Mackinaw (1863)	Gunboat	974	Steam	Gunboat
+USS Madgie (1858)	Gunboat	220	Steam	Gunboat
+USS Magnolia	Gunboat	843	Steam, Sail	Gunboat
+USS Malvern (1860)	Gunboat	1477	Steam	Gunboat
+USS Manitou (1863)	Gunboat	286	Steam	Gunboat
+USS Maratanza	Gunboat	786	Steam	Gunboat
+USS Marblehead (1861)	Gunboat	691	Steam	Gunboat
+USS Maria A. Wood	Gunboat	344	Sail	Gunboat
+USS Marmora (1862)	Gunboat	207	Steam	Gunboat
+USS Mary Sanford (1862)	Gunboat	457	Steam	Gunboat
+USS Massachusetts (1860)	Gunboat	1515	Steam	Gunboat
+USS Massasoit	Gunboat	974	Steam	Gunboat
+USS Mattabesett (1863)	Gunboat	1173	Steam	Gunboat
+USS Matthew Vassar	Gunboat	216	Sail	Gunboat
+USS Maumee (1863)	Gunboat	593	Steam	Gunboat
+USS Mercedita	Gunboat	1000	Steam	Gunboat
+USS Metacomet (1863)	Gunboat	1173	Steam	Gunboat
+USS Meteor (1863)	Gunboat	221	Steam	Gunboat
+USS Midnight (1861)	Gunboat	387	Sail	Gunboat
+USS Mingoe	Gunboat	974	Steam	Gunboat
+USS Minnesota (1855)	Gunboat	3307	Steam	Gunboat
+USS Mississippi (1841)	Gunboat	3220	Steam	Gunboat
+USS Mist (1864)	Gunboat	232	Steam	Gunboat
+USS Mobile (1854)	Gunboat	1275	Steam	Gunboat
+USS Moccasin (1864)	Gunboat	192	Steam	Gunboat
+USS Mohawk (1858)	Gunboat	464	Steam	Gunboat
+USS Moose (1863)	Gunboat	189	Steam	Gunboat
+USS Morning Light	Gunboat	937	Sail	Gunboat
+USS Morse	Gunboat	514	Steam	Gunboat
+USS Mound City (1861)	Gunboat	512	Steam	gunboat
+USS Mount Vernon (1859)	Gunboat	625	Steam	Gunboat
+USS Mount Washington (1846)	Gunboat	500	Steam	Gunboat
+USS Mystic (1853)	Gunboat	452	Steam	Gunboat
+USS Naiad (1863)	Gunboat	183	Steam	Gunboat
+USS Nansemond (1862)	Gunboat	340	Steam	Gunboat
+USS Narcissus (1863)	Gunboat	101	Steam	Gunboat
+USS Narragansett (1859)	Gunboat	1235	Steam	Gunboat
+USS Naumkeag (1863)	Gunboat	148	Steam	Gunboat
+USS Neptune (1863)	Gunboat	1244	Steam	Gunboat
+USS Nereus (1863)	Gunboat	1244	Steam	Gunboat
+USS New Berne (1862)	Gunboat	948	Steam	Gunboat
+USS New Era	Gunboat	157	Steam	Gunboat
+USS New London	Gunboat	221	Steam	Gunboat
+USS Niagara (1855)	Gunboat	5540	Steam, Sail	Gunboat
+USS Nightingale (1851)	Gunboat	1066	Sail	Gunboat
+USS Niphon (1863)	Gunboat	475	Steam	Gunboat
+USS Nipsic	Gunboat	592	Steam, Sail	Gunboat
+USS Nita	Gunboat	210	Steam	Gunboat
+USS Norfolk Packet	Gunboat	349	Sail	Gunboat
+USS Norwich (1861)	Gunboat	450	Steam	Gunboat
+USS Nyanza (1863)	Gunboat	203	Steam	Gunboat
+USS Octorara (1861)	Gunboat	829	Steam	Gunboat
+USS Oliver H. Lee	Gunboat	199	Sail	Gunboat
+USS Oneida (1861)	Gunboat	1488	Steam	Gunboat
+USS Onward (1852)	Gunboat	874	Sail	Gunboat
+USS Oriole (1864)	Gunboat	137	Steam	Gunboat
+USS Orvetta (1861)	Gunboat	199	Sail	Gunboat
+USS Osceola (1863)	Gunboat	974	Steam	Gunboat
+USS Ossipee (1861)	Gunboat	1240	Steam	Gunboat
+USS Otsego (1863)	Gunboat	974	Steam	Gunboat
+USS Ottawa (1861)	Gunboat	691	Steam	Gunboat
+USS Ouachita	Gunboat	720	Steam	Gunboat
+USS Owasco (1861)	Gunboat	691	Steam	Gunboat
+USS Para	Gunboat	200	Sail	Gunboat
+USS Patroon (1859)	Gunboat	183	Steam	Gunboat
+USS Paul Jones (1862)	Gunboat	1210	Steam	Gunboat
+USS Paw Paw	Gunboat	175	Steam	Gunboat
+USS Pawnee (1859)	Gunboat	1533	Steam, Sail	Gunboat
+USS Pawtuxet	Gunboat	974	Steam	Gunboat
+USS Pembina (1861)	Gunboat	691	Steam	Unadilla-class gunboat
+USS Penguin (1861)	Gunboat	389	Steam	Gunboat
+USS Penobscot (1861)	Gunboat	691	Steam	Gunboat
+USS Pensacola (1859)	Gunboat	3000	Steam	Gunboat
+USS Peony	Gunboat	180	Steam	Gunboat
+USS Peosta	Gunboat	204	Steam	Gunboat
+USS Perry (1843)	Gunboat	280	Sail	Gunboat
+USS Peterhoff (1863)	Gunboat	412	Steam	Gunboat
+USS Philippi	Gunboat	311	Steam	Gunboat
+USS Pink	Gunboat	184	Steam	Gunboat
+USS Pinola (1861)	Gunboat	691	Steam	Gunboat
+USS Pittsburgh (1861)	Gunboat	512	Steam	Gunboat
+USS Planter (1862)	Gunboat	313	Steam	Gunboat
+USS Plymouth (1844)	Gunboat	989	Sail	Gunboat
+USS Pocahontas (1852)	Gunboat	558	Steam, Sail	Gunboat
+USS Polaris (1871)	Gunboat	383	Steam, Sail	Gunboat
+USS Pontiac (1863)	Gunboat	974	Steam	Gunboat
+USS Pontoosuc	Gunboat	974	Steam	Gunboat
+USS Port Royal (1862)	Gunboat	805	Steam	Gunboat
+USS Portsmouth (1843)	Gunboat	1022	Sail	Gunboat
+USS Potomska (1861)	Gunboat	287	Steam	Gunboat
+USS Prairie Bird	Gunboat	171	Steam	Gunboat
+USS Preston (1864)	Gunboat	428	Steam	Gunboat
+USS Preston (1865)	Gunboat	230	Steam	Gunboat
+USS Primrose	Gunboat	94	Steam	Gunboat
+USS Princess Royal	Gunboat	652	Steam	Gunboat
+USS Princeton (1851)	Gunboat	1370	Steam	Gunboat
+USS Proteus (1863)	Gunboat	1244	Steam	Gunboat
+USS Pursuit (1861)	Gunboat	600	Sail	bark
+USS Quaker City	Gunboat	1428	Steam	Gunboat
+USS Queen City	Gunboat	212	Steam	Gunboat
+USS R. R. Cuyler (1860)	Gunboat	1200	Steam	Gunboat
+USS Racer (1861)	Gunboat	252	Sail	Gunboat
+USS Rachel Seaman (1861)	Gunboat	303	Sail	Gunboat
+USS Reindeer (1863)	Gunboat	212	Steam	Gunboat
+USS Reliance (1860)	Gunboat	90	Steam	Gunboat
+USS Rescue (1861)	Gunboat	111	Steam	Gunboat
+USS Resolute (1860)	Gunboat	90	Steam	Gunboat
+USS Restless (1861)	Gunboat	265	Sail	Gunboat
+USS Rhode Island (1860)	Gunboat	1517	Steam	Gunboat
+USS Richmond (1860)	Gunboat	2604	Steam	Gunboat
+USS Rodolph	Gunboat	217	Steam	Gunboat
+USS Roebuck	Gunboat	455	Sail	Gunboat
+USS Rosalie	Gunboat	28	Sail	Gunboat
+USS Sachem (1861)	Gunboat	197	Steam	Gunboat
+USS Saco (1863)	Gunboat	593	Steam, Sail	Gunboat
+USS Sacramento (1862)	Gunboat	2100	Steam	Gunboat
+USS Saffron (1863)	Gunboat	73	Steam	Gunboat
+USS Sagamore (1861)	Gunboat	691	Steam	Gunboat
+USS Sam Houston (1861)	Gunboat	66	Sail	Gunboat
+USS Samuel Rotan (1861)	Gunboat	212	Sail	Gunboat
+USS Santee (1855)	Gunboat	1726	Sail	Gunboat
+USS Santiago de Cuba	Gunboat	1567	Steam, Sail	Gunboat
+USS Sarah Bruen (1862)	Gunboat	233	Sail	Gunboat
+USS Saranac (1848)	Gunboat	1463	Steam, Sail	Gunboat
+USS Sassacus (1862)	Gunboat	974	Steam	Gunboat
+USS Sciota (1861)	Gunboat	691	Steam	Gunboat
+USS Sea Bird	Gunboat	58	Sail	Gunboat
+USS Sea Foam (1861)	Gunboat	251	Sail	Gunboat
+USS Sebago (1861)	Gunboat	832	Steam	Gunboat
+USS Seminole (1859)	Gunboat	801	Steam, Sail	Gunboat
+USS Seneca (1861)	Gunboat	691	Steam	Gunboat
+USS Shamrock	Gunboat	974	Steam	Gunboat
+USS Shawmut (1863)	Gunboat	593	Steam	Gunboat
+USS Shepherd Knapp	Gunboat	838	Sail	Gunboat
+USS Shokokon	Gunboat	709	Steam	Warship
+USS Sidney C. Jones	Gunboat	254	Sail	Gunboat
+USS Signal (1862)	Gunboat	190	Steam	Gunboat
+USS Silver Cloud (1862)	Gunboat	236	Steam	Gunboat
+USS Silver Lake (1862)	Gunboat	236	Steam	Gunboat
+USS Siren (1862)	Gunboat	214	Steam	Gunboat
+USS Snowdrop (1863)	Gunboat	125	Steam	Gunboat
+USS Somerset (1862)	Gunboat	521	Steam	Gunboat
+USS Sonoma (1862)	Gunboat	955	Steam	Gunboat
+USS Sophronia	Gunboat	217	Steam, Sail	Gunboat
+USS South Carolina (1860)	Gunboat	1165	Steam	Gunboat
+USS Southfield	Gunboat	750	Steam	Gunboat
+USS Springfield (1862)	Gunboat	146	Steam	Gunboat
+USS St. Clair	Gunboat	203	Steam	Gunboat
+USS St. Louis (1828)	Gunboat	700	Sail	Gunboat
+USS Stars and Stripes	Gunboat	407	Steam	Gunboat
+USS State of Georgia (1851)	Gunboat	1204	Steam	Gunboat
+USS Stepping Stones (1861)	Gunboat	226	Steam	Gunboat
+USS Stettin (1861)	Gunboat	600	Steam	Gunboat
+USS Stockdale (1863)	Gunboat	188	Steam	Gunboat
+USS Sumpter (1853)	Gunboat	464	Steam	Gunboat
+USS Sunflower (1863)	Gunboat	294	Steam	Gunboat
+USS Suwanee (1864)	Gunboat	1030	Steam	Mohongo-class gunboat
+USS Sweet Brier (1862)	Gunboat	240	Steam	Gunboat
+USS T. A. Ward	Gunboat	284	Sail	Gunboat
+USS Tacony (1863)	Gunboat	974	Steam	Gunboat
+USS Tahoma (1861)	Gunboat	691	Steam	Gunboat
+USS Ta-Kiang	Gunboat	510	Steam	Gunboat
+USS Tallahatchie (1863)	Gunboat	171	Steam	Gunboat
+USS Tallapoosa (1863)	Gunboat	974	Steam	Gunboat
+USS Tawah	Gunboat	108	Steam	Gunboat
+USS Tempest (1862)	Gunboat	161	Steam	Gunboat
+USS Tensas (1860)	Gunboat	41	Steam	Gunboat
+USS Thistle (1862)	Gunboat	50	Steam	Gunboat
+USS Thomas Freeborn	Gunboat	269	Steam	Gunboat
+USS Tioga (1862)	Gunboat	819	Steam	Gunboat
+USS Trefoil (1865)	Gunboat	370	Steam	Gunboat
+USS Tristram Shandy	Gunboat	444	Steam	Gunboat
+USS Tulip (1862)	Gunboat	183	Steam	Gunboat
+USS Tuscumbia (1862)	Gunboat	915	Steam	Gunboat
+USS Two Sisters	Gunboat	54	Sail	Gunboat
+USS Tyler	Gunboat	575	Steam	Gunboat
+USS Unadilla (1861)	Gunboat	691	Steam	Gunboat
+USS Uncas (1843)	Gunboat	192	Steam	Gunboat
+USS Undine (1863)	Gunboat	179	Steam	Gunboat
+USS Union (1861)	Gunboat	1114	Steam	Gunboat
+USS Valley City	Gunboat	190	Steam	Gunboat
+USS Vandalia (1828)	Gunboat	614	Sail	Gunboat
+USS Vanderbilt	Gunboat	3360	Steam	Gunboat
+USS Varuna (1861)	Gunboat	1247	Steam	Gunboat
+USS Velocity (1862)	Gunboat	87	Sail	Gunboat
+USS Verbena	Gunboat	104	Steam	Gunboat
+USS Vicksburg (1863)	Gunboat	886	Steam	Gunboat
+USS Victoria (1855)	Gunboat	254	Steam	Gunboat
+USS Victory	Gunboat	160	Steam	Gunboat
+USS Vindicator (1863)	Gunboat	750	Steam	Gunboat
+USS Violet	Gunboat	166	Steam	Gunboat
+USS Virginia (1861)	Gunboat	581	Steam	Gunboat
+USS Volunteer (1863)	Gunboat	209	Steam	Gunboat
+USS Wabash (1855)	Gunboat	4808	Steam, Sail	Gunboat
+USS Wachusett (1861)	Gunboat	1032	Steam, Sail	Gunboat
+USS Wamsutta	Gunboat	270	Steam	Gunboat
+USS Wanderer (1857)	Gunboat	300	Sail	Gunboat
+USS Wando (1864)	Gunboat	645	Steam	Gunboat
+USS Warren (1827)	Gunboat	697	Sail	Gunboat
+USS Water Witch (1851)	Gunboat	464	Steam	Gunboat
+USS Wateree (1863)	Gunboat	1173	Steam	Gunboat
+USS Wave (1863)	Gunboat	229	Steam	Gunboat
+USS Western World	Gunboat	441	Steam	Gunboat
+USS Westfield (1861)	Gunboat	822	Steam	Gunboat
+USS Whitehall (1850)	Gunboat	326	Steam	Gunboat
+USS Whitehead	Gunboat	136	Steam	Gunboat
+USS Wilderness	Gunboat	390	Steam	Gunboat
+USS William Bacon	Gunboat	183	Sail	Gunboat
+USS William G. Anderson	Gunboat	593	Sail	Gunboat
+USS William H. Brown	Gunboat	800	Steam	Gunboat
+USS Winnipec	Gunboat	1030	Steam	Mohongo-class gunboat
+USS Winona (1861)	Gunboat	691	Steam	Gunboat
+USS Wissahickon (1861)	Gunboat	691	Steam	Gunboat
+USS Wyalusing	Gunboat	1173	Steam	Gunboat
+USS Wyandotte (1853)	Gunboat	464	Steam	Gunboat
+USS Yantic (IX-32)	Gunboat	836	Steam	Gunboat
+USS Young Rover	Gunboat	418	Steam, Sail	Gunboat
+USS Yucca (1864)	Gunboat	373	Steam	Gunboat
+America  	Obstacle	418	Sail	Stoned
+Archer	Obstacle	322	Sail	Stoned
+Augusta Holly	Obstacle		Sail	Stoned
+Balize (tug)	Tug	321.1	Steam	Tug
+Corea	Obstacle	336	Sail	Stoned
+Cossack	Obstacle	254	Sail	Stoned
+Courier	Obstacle	381	Sail	Stoned
+CSS Selma (1856)	Transport	590	Steam	Steamboat
+Dove 	Obstacle	151	Sail	Stoned
+Edward 	Obstacle	274	Sail	Stoned
+Emerald 	Obstacle	518	Sail	Stoned
+Era No. 5	Transport	115	Steam	Steamer
+Fortune	Obstacle	292	Sail	Bark Stoned
+Frances Henrietta	Obstacle		Sail	whaler stoned
+Garland	Obstacle	243	Sail	Stoned
+George W. Blunt (1856)	Pilot Boat	122	Sail	Schooner
+Harvest	Obstacle		Sail	Stoned
+Herald	Obstacle	274	Sail	whaler stoned
+India	Obstacle	233	Sail	Bark Stoned
+Jubilee 	Obstacle	233	Sail	Stoned
+Kensington	Obstacle	357	Sail	Stoned
+L.C. Richmond	Obstacle	341	Sail	Stoned
+Leonidas	Obstacle	231	Sail	Stoned
+Lewis	Obstacle	308	Sail	Stoned
+Majestic 	Obstacle	297	Sail	Stoned
+Marcia 	Obstacle	356	Sail	Stoned
+Margaret Scott 	Obstacle	330	Sail	Stoned
+Maria Theresa	Obstacle	330	Sail	Stoned
+Mechanic 	Obstacle	335	Sail	Stoned
+Messenger 	Obstacle	216	Sail	Stoned
+Meteor	Obstacle		Sail	Stoned
+New England 	Obstacle	368	Sail	Stoned
+Newburyport 	Obstacle	341	Sail	Stoned
+Noble 	Obstacle	274	Sail	Stoned
+Peri 	Obstacle	261	Sail	Stoned
+Peter Demill	Obstacle	300	Sail	Bark Stoned
+Phoenix	Obstacle	404	Sail	Stoned
+Robin Hood	Obstacle	395	Sail	Stoned
+Sarah M. Kemp	Obstacle		Sail	Stoned
+South America	Obstacle	606	Sail	Stoned
+Stephen Young 	Obstacle	200	Sail	Stoned
+Tenedos	Obstacle	245	Sail	Bark Stoned
+Timor 	Obstacle	289	Sail	Stoned
+USLHT Shubrick	Lighthouse Tender	305	Steam	Tender
+USS A. Houghton	Transport	326	Sail	
+USS Abraham	Transport	800	Steam	
+USS Acacia	Tug	300	Steam	Tug
+USS Adelaide	Transport	734	Steam	
+USS Agamenticus	Monitor	3295	Steam	Miantonomoh-class Monitor
+USS Alligator (1862)	Submarine	275	Hand Crank	
+USS Alonzo Child	Transport	493	Steam	
+USS Alpha (1864)	Tug	55	Steam	Tug
+USS Althea (1863)	Tug	72	Steam	Tug
+USS Amaranthus	Tug	182	Steam	Tug
+USS Amazon	Obstacle	318	Sail	stoned
+USS American (1861)	Obstacle	329	Sail	stoned
+USS Antietam (1869)	Transport	3953	Steam, Sail	
+USS Arethusa (1864)	Transport	195	Steam	
+USS Arizona (1858)	Transport	959	Steam	
+USS Arkansas (1863)	Transport	752	Steam	
+USS Aster	Tug	285	Steam	Tug
+USS Baltimore (1861)	Transport	500	Steam	
+USS Barataria (1862)	Transport	400	Steam	
+USS Bazely (1863)	Patrol	50	Steam	
+USS Belle	Tug	52	Steam	Tug
+USS Benefit	Transport	213	Steam	Steamer
+USS Berberry	Tug	163	Steam	Tug
+USS Bermuda	Transport	1238	Steam	
+USS Bibb (1853)	Tug	409	Steam	Tug
+USS Blue Light	Tug	103	Steam	Tug
+USS Brandywine	Transport	1708	Sail	
+USS Buckthorn (1863)	Tender 	128	Steam	
+USS Canonicus (1863)	Monitor	1034	Steam	Canonicus-class Monitor
+USS Casco (1864)	Torpedo Boat 	1175	Steam	Torpedo Boat 
+USS Catalpa (1864)	Tug	191	Steam	Tug
+USS Catawba (1864)	Monitor	1034	Steam	Canonicus-class Monitor
+USS Catskill (1862)	Monitor	1335	Steam	Passaic-class Monitor
+USS Charles Phelps	Transport	363	Sail	Collier
+USS Chatham (1836)	Transport	198	Steam	Steamship
+USS Chattanooga (1864)	Transport	3043	Steam	Steamer
+USS Chickasaw (1864)	Monitor	1300	Steam	Milwaukee-class Monitor
+USS Chimo (1864)	Torpedo Boat 	1175	Steam	Torpedo Boat 
+USS Circassian	Transport	1750	Steam	ship
+USS Clara Dolsen	Transport	939	Steam	Steamer
+USS Clematis (1863)	Tug	297	Steam	Tug
+USS Clinton (1864)	Tug	50	Steam	Tug
+USS Coeur de Lion	Transport	110	Steam	Steamer
+USS Columbine (1862)	Transport	133	Steam	Steamer
+USS Daffodil (1862)	Transport	173	Steam	Steamer
+USS Dahlia (1862)	Tug	50	Steam	Tug
+USS Daisy (1850)	Tug	50	Steam	Tug
+USS Dandelion (1862)	Tug	100	Steam	Tug
+USS Darlington (1862)	Transport	300	Steam	Steamer
+USS Dawn (1857)	Transport	399	Steam	Steamer
+USS Daylight	Transport	682	Steam	Steamer
+USS Delta (1864)	Tug	50	Steam	Tug
+USS Don	Transport	390	Steam	Steamer
+USS Donegal (1860)	Transport	1080	Steam	Steamer
+USS Emma (1863)	Transport	350	Steam	Steamer
+USS Epsilon	Tug	55	Steam	Tug
+USS Eugenie	Tender 	150	Sail	Tender
+USS Fahkee	Tug	745	Steam	Tug
+USS Fearnot	Transport	1012	Steam	ship
+USS Fern (1862)	Tug	50	Steam	Tug
+USS Fort Donelson	Transport	900	Steam	Steamer
+USS Fort Jackson (1862)	Transport	1850	Steam	Steamer
+USS Fredonia	Transport	799	Sail	ship
+USS Gamage (1864)	Transport	187	Steam	Steamer
+USS Gamma (1863)	Tug	36	Steam	Tug
+USS Garland (1815)	Transport	243	Sail	Bark
+USS General Lyon (1860)	Transport	468	Steam	Cargo
+USS General Price	Transport	633	Steam	Steamer
+USS George Washington Parke Custis (1861)	Balloon Barge	1726	Towed	barge balloon 
+USS Gettysburg (1858)	Transport	950	Steam	Steamer
+USS Gladiolus	Minesweeper 	81	Steam	Minesweeper
+USS Glance (1863)	Tug	81	Steam	Tug
+USS Grampus (1863)	Transport	230	Steam	Steamer
+USS Great Western (1857)	Transport	429	Steam	ship
+USS Guard (1857)	Transport	1846	Sail	ship
+USS Hatteras (1861)	Transport	1126	Steam	
+USS Heliotrope	Transport	239	Steam	Steamer
+USS Hollyhock	Tug	352	Steam	Tug
+USS Hope (1861)	Transport	134	Sail	Schooner
+USS Horace Beals	Transport	296	Sail	ship
+USS Hornet (1865)	Transport	835	Steam	prize 
+USS Hoyt (1863)	Torpedo Boat 	None	Steam	Torpedo Boat 
+USS Ibex (1863)	Transport	235	Steam	Steamer
+USS Iris (1863)	Transport	159	Steam	Steamer
+USS Iron Age	Transport	424	Steam	Steamer
+USS Isaac N. Seymour	Transport	133	Steam	Steamer
+USS Isaac Smith	Transport	453	Steam	Steamer
+USS Island Belle	Tug	123	Steam	Tug
+USS J. C. Kuhn	Transport	888	Sail	ship
+USS James Adger	Transport	1152	Steam	Steamer
+USS Jamestown (1844)	Transport	1150	Sail	Sloop
+USS Jasmine	Tug	120	Steam	Tug
+USS Jean Sands (1863)	Tug	139	Steam	Tug
+USS Judge Torrence	Transport	700	Steam	Steamer
+USS Julia (1863)	Tender 	10	Sail	Tender
+USS Juniper	Tug	116	Steam	Tug
+USS Kalmia (1863)	Tug	112	Steam	Tug
+USS Keystone State (1853)	Transport	1364	Steam	Steamer
+USS Kickapoo (1864)	Monitor	1300	Steam	Milwaukee-class Monitor
+USS King Philip	Transport	500	Steam	Steamer
+USS Laburnum (1864)	Tug	181	Steam	Tug
+USS Lafayette (1848)	Transport	1193	Steam	Steamer
+USS Larkspur (1863)	Transport	121	Steam	Steamer
+USS Laurel (1862)	Tug	50	Steam	Tug
+USS Lavender	Transport	173	Steam	Steamer
+USS Lehigh (1863)	Monitor	1335	Steam	Passaic-class Monitor
+USS Lenapee	Tug	974	Steam	Tug
+USS Leslie	Tug	100	Steam	Tug
+USS Lilac (1863)	Tug	129	Steam	Tug
+USS Lily	Tug	50	Steam	Tug
+USS Linden	Transport	177	Steam	Steamer
+USS Mahopac (1864)	Monitor	1034	Steam	Canonicus-class Monitor
+USS Manhattan (1863)	Monitor	1034	Steam	Canonicus-class Monitor
+USS Maria Denning (1858)	Transport	870	Steam	ship
+USS Marigold (1863)	Tug	115	Steam	Tug
+USS Martin (1864)	Tug	25	Steam	Tug
+USS Massachusetts (1845)	Transport	765	Steam, Sail	steamship
+USS Memphis (1862)	Transport	1091	Steam	Steamer
+USS Mendota (1863)	Transport	974	Steam	Steamer
+USS Merrimac (1864)	Transport	635	Steam	Steamer
+USS Miami (1861)	Transport	730	Steam	Steamer
+USS Miantonomoh (1863)	Monitor	3401	Steam	Miantonomoh-class Monitor
+USS Michigan (1843)	Transport	685	Steam	Steamer
+USS Mignonette	Tug	50	Steam	Tug
+USS Milwaukee (1864)	Monitor	1300	Steam	Milwaukee-class Monitor
+USS Mistletoe (1861)	Tug	50	Steam	Tug
+USS Monadnock (1863)	Monitor	3295	Steam	Miantonomoh-class Monitor
+USS Monarch (1862)	Transport	406	Steam	Ram
+USS Monongahela (1862)	Transport	2078	Steam	ship
+USS Montauk (1862)	Monitor	750	Steam	Passaic-class Monitor
+USS Monterey (1862)	Tug	87	Steam	Tug
+USS Montezuma 	Obstacle	424	Sail	Stoned
+USS Montgomery (1858)	Transport	787	Steam	Steamer
+USS Monticello (1859)	Transport	655	Steam	Steamer
+USS Myrtle (1862)	Tug	60	Steam	Tug
+USS Nahant (1862)	Monitor	1875	Steam	Passaic-class Monitor
+USS Nantucket (1862)	Monitor	1875	Steam	Passaic-class Monitor
+USS Naubuc (1864)	Torpedo Boat 	1175	Steam	Torpedo Boat 
+USS Neosho	Monitor	523	Steam	Neosho-class Monitor
+USS Nettle (1862)	Tug	50	Steam	Tug
+USS New National (1862)	Transport	1000	Steam	Steamer
+USS Nymph (1863)	Transport	171	Steam	Steamer
+USS O. M. Pettit	Tug	165	Steam	Tug
+USS Oleander	Transport	246	Steam	Steamer
+USS Oneota (1864)	Monitor	1034	Steam	Canonicus-class Monitor
+USS Osage	Monitor	523	Steam	Neosho-class Monitor
+USS Ozark (1863)	Monitor	578	Steam	Ozark-class Monitor
+USS Pampero	Transport	1375	Sail	ship
+USS Pansy (1861)	Tug	46	Steam	Tug
+USS Passaic (1862)	Monitor	1355	Steam	Passaic-class Monitor
+USS Patapsco (1862)	Monitor	1875	Steam	Passaic-class Monitor
+USS Percy Drayton	Tender 	20	Sail	Tender
+USS Philadelphia (1861)	Transport	500	Steam	Steamer
+USS Phlox (1864)	Transport	317	Steam	Steamer
+USS Poppy	Tug	93	Steam	Tug
+USS Port Fire	Tug	103	Steam	Tug
+USS Powhatan (1850)	Transport	2415	Steam	Steamer
+USS Puritan (1864)	Monitor	3265	Steam	Ocean-going Monitor
+USS Queen	Transport	630	Steam	ship
+USS Queen of the West (1854)	Transport	406	Steam	Ram
+USS R. B. Forbes	Transport	320	Steam	Steamer
+USS Rattler	Transport	165	Steam	Steamer
+USS Rebecca Sims (1801)	Obstacle	400	Sail	whaler Stoned
+USS Red Rover	Transport	650	Steam	Steamer
+USS Release (1855)	Transport	327	Sail	ship
+USS Relief (1836)	Transport	468	Sail	ship
+USS Rocket (1862)	Tug	187	Steam	Tug
+USS Rose	Tug	96	Steam	Tug
+USS Sallie Wood	Tug	256	Steam	Tug
+USS Samson	Tug	230	Steam	Tug
+USS Sangamon (1862)	Monitor	1335	Steam	Passaic-class Monitor
+USS Satellite (1854)	Tug	217	Steam	Tug
+USS Saugus (1863)	Monitor	2100	Steam	Canonicus-class Monitor
+USS Shawsheen (1855)	Tug	180	Steam	Tug
+USS Sibyl (1863)	Transport	176	Steam	Steamer
+USS Sorrel	Tug	68	Steam	Tug
+USS Sovereign (1855)	Tender 	336	Steam	Tender
+USS Spirea (1864)	Transport	409	Steam	Steamer
+USS Spuyten Duyvil	Torpedo Boat 	207	Steam	Torpedo Boat 
+USS Stonewall (1863)	Tender 	30	Sail	Tender
+USS Sumter (1862)	Transport	525	Steam	Steamer
+USS Supply (1846)	Transport	547	Sail	ship
+USS Swift (1864)	Tender 	12	Sail	Tender
+USS Teaser	Tug	64	Steam	Tug
+USS Tecumseh (1863)	Monitor	2100	Steam	Canonicus-class Monitor
+USS Tritonia (1863)	Transport	202	Steam	Steamer
+USS Tunxis (1864)	Monitor	1175	Steam	Casco-class Monitor
+USS Underwriter (1852)	Transport	341	Steam	Steamer
+USS Unit (1862)	Tug	57	Steam	Tug
+USS Valparaiso (1836)	Transport	402	Sail	ship
+USS Vixen (1861)	Reconnaissance	300	Steam	Reconnaissance
+USS Weehawken (1862)	Monitor	1173	Steam	Passaic-class Monitor
+USS Wild Cat	Tender 	30	Sail	Tender
+USS William Badger	Transport	334	Sail	ship
+USS Winnebago (1863)	Monitor	1300	Steam	Milwaukee-classMonitor
+USS Wyandank	Transport	400	Steam	ship
+USS Wyandotte (1864)	Monitor	1034	Steam	Canonicus-class Monitor
+USS Yankee (1861)	Tug	328	Steam	Tug
+USS Young America	Tender 	173	Steam	Tender
+USS Zeta	Transport	60	Steam	Steamer
+USS Zouave	Tender 	127	Steam	Tender
+Valparaiso 	Obstacle	402	Sail	Stoned
+William Lee 	Obstacle	311	Sail	Stoned

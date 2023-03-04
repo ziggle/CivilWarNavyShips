@@ -8,7 +8,7 @@
 
 ## Introduction
 
-This repo contains some work I have been doing on gathering a list of ships used by the Union during the US Civil War. This work was motivated by a discussion I heard on the Union Navy by [Drachinifel](https://www.youtube.com/watch?v=3tqD11AO1Iw). I was surprised to learn that the US Navy during the Civil War was so large. Drach commented that it was primarily a river navy with relatively little blue water capability. I decided to put together a list of the Union ships and some characteristics that would allow me to assess its capabilities.
+This repo contains some work I have been doing on gathering a list of ships used by the Union during the US Civil War. This work was motivated by a discussion I heard on the Union Navy by [Drachinifel](https://www.youtube.com/watch?v=3tqD11AO1Iw). I was surprised to learn that the US Navy during the Civil War was so large. Drach commented that it was primarily a river navy with relatively little blue water capability. I decided to put together a list of the Union ships and some characteristics that would allow me to assess its capabilities. This is only a start.
 
 ## Background
 

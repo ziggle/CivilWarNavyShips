@@ -1,10 +1,11 @@
 ![Model of Monitor](./Images/Monitor_model2.png)
 <br>
+
 <h3 align=center>USS Monitor</h2>
 <h4 align=center>Union warship in the first <a href="https://en.wikipedia.org/wiki/Ironclad_warship">ironclad-on-ironclad battle</a>.</h3>
 <br>
 
-#  Union Ships During the Civil War
+# Union Ships During the Civil War
 
 ## Introduction
 
@@ -35,13 +36,13 @@ This repo contains some work I have been doing on gathering a list of ships used
 
 There were 7 one-of-a-kind vessels that I lumped into the miscellaneous category.
 
-* Balloon Barge<br>A barge used to launch surveillance balloons.
-* Lighthouse Tender<br>A ship used to supply lighthouses.
-* Minesweeper<br>A ship used to sweep mines from waterways.
-* Patrol<br>A ship used for waterway surveillance.
-* Pilot Boat<br>A boat used to transfer harbor/river pilots for navigating through difficult waterways.
-* Reconnaissance<br>A former survey ship that was used to perform detailed charting of unmapped areas.
-* Submarine<br>An early submarine that sank while being towed.
+- Balloon Barge<br>A barge used to launch surveillance balloons.
+- Lighthouse Tender<br>A ship used to supply lighthouses.
+- Minesweeper<br>A ship used to sweep mines from waterways.
+- Patrol<br>A ship used for waterway surveillance.
+- Pilot Boat<br>A boat used to transfer harbor/river pilots for navigating through difficult waterways.
+- Reconnaissance<br>A former survey ship that was used to perform detailed charting of unmapped areas.
+- Submarine<br>An early submarine that sank while being towed.
 
 ### Data Sources
 
@@ -55,41 +56,46 @@ There were 7 one-of-a-kind vessels that I lumped into the miscellaneous category
 
 ### Number Ships By Category
 
-**Name**|**Count**
-:-----:|:-----:
-Gunboat|435
-Transport|96
-Blockade Operations|57
-Tug|55
-Obstacle|45
-Monitor|29
-Tender |10
-Torpedo Boat |5
-Miscellaneous |7
+The number of ships is aggregated from several sources. As always with ships, it has to do with how you count.
+
+- Some ships were captured
+- Some were pulled out of "mothballs" and sunk as harbor barriers
+
+|      **Name**       | **Count** |
+| :-----------------: | :-------: |
+|       Gunboat       |    435    |
+|      Transport      |    96     |
+| Blockade Operations |    57     |
+|         Tug         |    55     |
+|      Obstacle       |    45     |
+|       Monitor       |    29     |
+|       Tender        |    10     |
+|    Torpedo Boat     |     5     |
+|    Miscellaneous    |     7     |
 
 ### Tonnage of Ships By Category
 
-**Role**|**Tonnage (1000 tonne)**
-:-----:|:-----:
-Gunboat|250
-Blockade Operations|93
-Transport|66
-Monitor|45
-Obstacle|13
-Tug|9
-Torpedo Boat|4
-Balloon Barge|2
-Other|3
-Tender|1
-Total|483
+|      **Role**       | **Tonnage (1000 tonne)** |
+| :-----------------: | :----------------------: |
+|       Gunboat       |           250            |
+| Blockade Operations |            93            |
+|      Transport      |            66            |
+|       Monitor       |            45            |
+|      Obstacle       |            13            |
+|         Tug         |            9             |
+|    Torpedo Boat     |            4             |
+|    Balloon Barge    |            2             |
+|        Other        |            3             |
+|       Tender        |            1             |
+|        Total        |           483            |
 
 ### Ships By Propulsion
 
-**Role**|**Count**
-:-----:|:-----:
-Steam|535
-Sail|171
-Steam, Sail|31
-Towed|1
-Hand Cranked|1
-Total|739
+|   **Role**   | **Count** |
+| :----------: | :-------: |
+|    Steam     |    535    |
+|     Sail     |    171    |
+| Steam, Sail  |    31     |
+|    Towed     |     1     |
+| Hand Cranked |     1     |
+|    Total     |    739    |
